@@ -1,6 +1,7 @@
 # LojaFront
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.14.
+<img width="1283" height="564" alt="Captura de tela 2025-12-15 214620" src="https://github.com/user-attachments/assets/2286c1d9-68a8-4b7a-a073-ed87ff7ca291" />
 
 ## Development server
 
